@@ -6,8 +6,8 @@
 // @author       MR
 // @match        https://forums.iracing.com/*
 // @icon         https://www.google.com/s2/favicons?sz=64&domain=google.com
-// @downloadURL  https://raw.githubusercontent.com/mrg21/irforumdriverstats/main/irforumdriverstats.js
-// @updateURL    https://raw.githubusercontent.com/mrg21/irforumdriverstats/main/irforumdriverstats.js
+// @downloadURL  https://raw.githubusercontent.com/exenza/irforumstats/main/irforumdriverstats.js
+// @updateURL    https://raw.githubusercontent.com/exenza/irforumstats/main/irforumdriverstats.js
 // ==/UserScript==
 
 // config
